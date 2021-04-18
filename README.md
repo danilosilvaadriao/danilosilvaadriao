@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**danilosilvaadriao/danilosilvaadriao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤝 My name is Danilo Silva Adrião. 
 
-Here are some ideas to get you started:
+I'm from Brazil. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm studying web programming. 💻
+
+I'm studying programming because I like the possibilities of creating something new and solving problems.
+
+- From Arara, Paraíba
+- Living in São Paulo, BR
+
+Follow me!
+
+[![Twitter Badge](https://img.shields.io/badge/-@danilo_s_adriao-6633cc?style=white-square&labelColor=6633cc&logo=twitter&logoColor=blue&link=https://twitter.com/danilo_s_adriao)](https://twitter.com/danilo_s_adriao) 
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo_Silva_Adriao-6633cc?style=white-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilosilvaadriao/)](https://www.linkedin.com/in/danilosilvaadriao/)
