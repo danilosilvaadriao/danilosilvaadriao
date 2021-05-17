@@ -15,7 +15,7 @@ Minhas redes sociais a seguir:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-26a7de?style=white-square&labelColor=E2E2E2&logo=twitter&logoColor=blue&link=https://twitter.com/danilo_s_adriao)](https://twitter.com/danilosadriao)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-84D7FF?style=white-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilosilvaadriao/)](https://www.linkedin.com/in/danilosilvaadriao/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=white-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilosilvaadriao/)](https://www.linkedin.com/in/danilosilvaadriao/)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-3f729b?style=white-square&labelColor=E2E2E2&logo=instagram&logoColor=blue&link=https://www.instagram.com/danilosilvaadriao/)](https://www.instagram.com/danilosilvaadriao/) 
 
