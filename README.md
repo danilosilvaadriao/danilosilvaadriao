@@ -13,5 +13,10 @@ Me interessei por programação pois acredito que as possibilidades de criação
 
 Minhas redes sociais a seguir:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-E2E2E2?style=white-square&labelColor=E2E2E2&logo=twitter&logoColor=blue&link=https://twitter.com/danilo_s_adriao)](https://twitter.com/danilosadriao) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-E2E2E2?style=white-square&labelColor=E2E2E2&logo=twitter&logoColor=blue&link=https://twitter.com/danilo_s_adriao)](https://twitter.com/danilosadriao)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-E2E2E2?style=white-square&logo=Linkedin&logoColor=1281B7&link=https://www.linkedin.com/in/danilosilvaadriao/)](https://www.linkedin.com/in/danilosilvaadriao/)
+
+[![Instagram Badge](https://img.shields.io/badge/-Twitter-E2E2E2?style=white-square&labelColor=E2E2E2&logo=twitter&logoColor=blue&link=https://twitter.com/danilo_s_adriao)](https://twitter.com/danilosadriao) 
+
+[![Facebook Badge](https://img.shields.io/badge/-LinkedIn-E2E2E2?style=white-square&logo=Linkedin&logoColor=1281B7&link=https://www.linkedin.com/in/danilosilvaadriao/)](https://www.linkedin.com/in/danilosilvaadriao/)
