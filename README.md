@@ -2,8 +2,6 @@
 
 🤝 Meu nome é Danilo Silva Adrião. 
 
-Sou do Brasil. 
-
 Estudante de programação web. 💻
 
 Me interessei por programação pois acredito que as possibilidades de criação são infintas.
