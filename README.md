@@ -2,7 +2,7 @@
 
 🤝 Meu nome é Danilo Silva Adrião. 
 
-Estudante de programação web. 💻
+Estudante de Análise e Desenvolvimento de Sistemas. 💻
 
 Me interessei por programação pois acredito que as possibilidades de criação são infintas.
 
