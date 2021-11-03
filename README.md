@@ -1,10 +1,12 @@
 # Olá, bem-vindo! 👋
 
-🤝 Meu nome é Danilo Silva Adrião. 
+Meu nome é Danilo Silva Adrião 🤝
 
 Estudante de Análise e Desenvolvimento de Sistemas. 💻
 
-Me interessei por programação pois acredito que as possibilidades de criação são infintas.
+Sempre gostei de tecnologia, mas não sabia ao certo qual a área de TI eu iria escolher. <br>
+Em agosto de 2021, decidi que faria um curso na área e escolhi análise e desenvolvimento de sistemas <br>
+como o meu ponta pé inicial pra ingressar na programação.
 
 - De Arara, Paraíba, BR
 - Morando em São Paulo, SP, BR
