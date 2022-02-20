@@ -4,12 +4,12 @@ Meu nome é Danilo Silva Adrião 🤝
 
 Estudante de Análise e Desenvolvimento de Sistemas. 💻
 
-Sempre gostei de tecnologia, mas não sabia ao certo qual a área de TI eu iria escolher. <br>
-Em agosto de 2021, decidi que faria um curso na área e escolhi análise e desenvolvimento de sistemas <br>
+Sempre gostei de tecnologia, mas não sabia ao certo qual a área de TI eu iria escolher.
+Em agosto de 2021, decidi que faria um curso na área e escolhi análise e desenvolvimento de sistemas
 como o meu ponta pé inicial pra ingressar na programação.
 
-- De Arara, Paraíba, BR
-- Morando em São Paulo, SP, BR
+- De Arara, Paraíba, BR 🗺️
+- Morando em São Paulo, SP, BR 📌
 
 Minhas redes sociais a seguir: <br>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-26a7de?style=white-square&labelColor=E2E2E2&logo=twitter&logoColor=blue&link=https://twitter.com/danilo_s_adriao)](https://twitter.com/danilosadriao)
