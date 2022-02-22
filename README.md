@@ -6,8 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas. 💻
 
 Sempre gostei de tecnologia, mas não sabia ao certo qual a área de TI eu iria escolher.
 Em agosto de 2021, decidi que faria um curso na área e escolhi análise e desenvolvimento de sistemas
-como o meu ponta pé inicial pra ingressar na programação.
-
+como o meu ponta pé inicial pra ingressar na programação. Além de está cursando análise de sistemas no Senac-SP, também faço cursos e bootcamps pela internet na DIO - Digital Innovation One, na Rocketseat e também em vídeos teóricos e práticos no YouTube.
 - De Arara, Paraíba, BR 🗺️
 - Morando em São Paulo, SP, BR 📌
 
